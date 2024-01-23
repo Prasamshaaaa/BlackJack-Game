@@ -1,1 +1,3 @@
-# Blackjack-Game
+# Blackjack Game
+
+Welcome to the Blackjack game repository! This project offers an engaging web-based adaptation of the timeless Blackjack card game, providing players with a user-friendly interface and realistic card-drawing mechanics. The game allows users to initiate a new round, draw additional cards, and strategize to reach a hand value close to 21 without exceeding it. Crafted using HTML, CSS, and JavaScript, the game combines simplicity with an enjoyable gaming experience. To play, simply open the `index.html` file in your preferred web browser, where you'll be guided through each step of the game. Whether you're a Blackjack enthusiast or a casual gamer, this project aims to deliver a fun and interactive card-playing experience. Contributions are encouraged, and the project is open under the MIT License. Feel free to explore the codebase, contribute improvements, and immerse yourself in the world of Blackjack. Happy gaming!
